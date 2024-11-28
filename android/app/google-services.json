@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371843671640",
+    "project_id": "magna-food-ex",
+    "storage_bucket": "magna-food-ex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371843671640:android:d113b31b45239b283ecc2d",
+        "android_client_info": {
+          "package_name": "com.delris.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKE6EJ1tGIZWDjuorbOk8Ho-mCGy_NdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
